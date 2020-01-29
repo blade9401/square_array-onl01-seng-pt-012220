@@ -3,3 +3,5 @@ def square_array(array)
     puts num**
   end
 end
+
+d
