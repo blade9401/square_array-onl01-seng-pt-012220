@@ -3,5 +3,3 @@ def square_array(array)
   num  * num
   end
 end
-
-new_array
