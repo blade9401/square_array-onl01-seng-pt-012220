@@ -3,6 +3,7 @@ def square_array(array)
   num  * num
   new_array = []
   new_array << num * num
+  puts new_array
   end
 end
 
